@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684255884 source:c:\users\admin\documents\github\sturdy-doodle\Блок 2\Работа 6\lab 6\camera.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1684255884 c:\users\admin\documents\github\sturdy-doodle\Блок 2\Работа 6\lab 6\camera.h
+
+1684592850 source:c:\users\admin\documents\github\sturdy-doodle\Блок 2\Работа 6\lab 6\main.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
